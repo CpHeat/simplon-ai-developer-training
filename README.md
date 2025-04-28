@@ -22,4 +22,17 @@ Linux/VM command line, Pandas & PostgreSQL introduction/exercises
 Miniproject:  
 Chose and play with a dataset from kaggle  
   
-Personal sidework: setting up an Ubuntu/Windows 11 dual boot, dockerizing PostgreSQL to carry databases between the two, PowerBI introductory course
+Personal sidework: setting up an Ubuntu/Windows 11 dual boot, dockerizing PostgreSQL to carry databases between the two, PowerBI introductory course  
+  
+  
+WEEK 3:  
+Teacher: [Sengsathit](https://github.com/Sengsathit)  
+  
+Git introduction, group project for the next 2 weeks  
+  
+Miniprojects:  
+defi-git (learn to work on a git repo together)  
+casse-tete (learn how to deal with conflicts)  
+  
+Group project (with [CSAADZIDI](https://github.com/CSAADZIDI) & [aruide](https://github.com/aruide)):  
+TO BE CONTINUED...
