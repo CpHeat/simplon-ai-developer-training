@@ -1,5 +1,5 @@
 WEEK 1:
-Teacher: Seng
+Teacher: [Sengsathit](https://github.com/Sengsathit)
 
 Training program presentation, Python refresher course, UML concept introduction
 

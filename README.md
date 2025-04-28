@@ -1,12 +1,13 @@
 Tracking my progress throughout the Simplon AI Developer training week by week
 
-WEEK 1 :
-Teacher: Seng
+WEEK 1:
+    Teacher: [Sengsathit](https://github.com/Sengsathit)
 
-Training program presentation, Python refresher course
+    Training program presentation, Python refresher course, UML concept introduction
 
-miniprojects :
-    library (with command line controls)
-    hangman game
+    Miniprojects:
+        library (with command line controls)
+        hangman game
 
-
+    Bonus:
+        Unified Modeling Language presentation (with [CSAADZIDI](https://github.com/CSAADZIDI) & [aruide](https://github.com/aruide))
