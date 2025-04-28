@@ -1,5 +1,3 @@
-Tracking my progress throughout the Simplon AI Developer training week by week
-
 WEEK 1:
 Teacher: [Sengsathit](https://github.com/Sengsathit)
 
