@@ -1,5 +1,5 @@
 WEEK 3-4:  
-Teacher: [Sengsathit](https://github.com/Sengsathit)  
+Teacher: [Sengsathit](https://github.com/Sengsathit)/Salsabil  
   
 Git introduction, group project for the next 2 weeks  
   

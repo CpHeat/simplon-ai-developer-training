@@ -26,7 +26,7 @@ Personal sidework: setting up an Ubuntu/Windows 11 dual boot, dockerizing Postgr
   
   
 WEEK 3-4:  
-Teacher: [Sengsathit](https://github.com/Sengsathit)  
+Teachers: [Sengsathit](https://github.com/Sengsathit)/Salsabil  
   
 Git introduction, group project for the next 2 weeks  
   
