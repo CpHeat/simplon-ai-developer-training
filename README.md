@@ -112,4 +112,4 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 * A basic spam detector in Python (to understand how an expert system approach would work, and rapidly become bloated)
 * Numpy, Pandas & Matplotlib jupyter notebooks
 
-### TO BE CONTINUED
+### --- TO BE CONTINUED
