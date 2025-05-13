@@ -1,5 +1,3 @@
----
-
 ## 🗕️ WEEK 1
 
 **Teacher**: [Sengsathit](https://github.com/Sengsathit)

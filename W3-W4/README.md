@@ -1,5 +1,3 @@
----
-
 ## 🗕 WEEKS 3–4
 
 **Teachers**: [Sengsathit](https://github.com/Sengsathit) / Salsabil
