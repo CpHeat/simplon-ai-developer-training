@@ -1,6 +1,5 @@
 import os
 from abc import ABC
-from tkinter import Toplevel, Label, Entry, Button
 
 import psycopg2
 from dotenv import load_dotenv
@@ -22,50 +21,12 @@ class PersistenceHandler(ABC):
     load_dotenv()
 
     @classmethod
-    def initiate_database_creation(cls, interface:'Interface') -> None:
+    def create_ddb(cls) -> None:
         """
         Creates the database and its tables.
         """
-        cls.ddb_login(interface)
-
-
-    @classmethod
-    def ddb_login(cls, interface:'Interface'):
-        popup = Toplevel(interface.window)
-        popup.title("Postgres database credentials")
-
-        Label(popup, text="Host:").grid(row=0, column=0, padx=10, pady=5)
-        username_entry = Entry(popup)
-        username_entry.grid(row=0, column=1, padx=10, pady=5)
-
-        Label(popup, text="Port:").grid(row=0, column=0, padx=10, pady=5)
-        username_entry = Entry(popup)
-        username_entry.grid(row=0, column=1, padx=10, pady=5)
-
-        Label(popup, text="Username:").grid(row=0, column=0, padx=10, pady=5)
-        username_entry = Entry(popup)
-        username_entry.grid(row=0, column=1, padx=10, pady=5)
-
-        Label(popup, text="Password:").grid(row=1, column=0, padx=10, pady=5)
-        password_entry = Entry(popup, show="*")
-        password_entry.grid(row=1, column=1, padx=10, pady=5)
-
-        def validate():
-            username = username_entry.get()
-            password = password_entry.get()
-            popup.destroy()
-            cls.create_database(username, password)
-
-        Button(popup, text="Validate", command=validate).grid(row=2, column=0, columnspan=2, pady=10)
-
-    @classmethod
-    def create_database(cls, username, password):
-        print("username, password", username, password)
-
         try:
-            conn = psycopg2.connect(dbname='postgres', user=os.getenv("POSTGRES_USER"),
-                                    password=os.getenv("POSTGRES_PASSWORD"), host=os.getenv("POSTGRES_HOST"),
-                                    port=os.getenv("POSTGRES_PORT"), client_encoding="UTF-8")
+            conn = psycopg2.connect(dbname='postgres', user=os.getenv("POSTGRES_USER"), password=os.getenv("POSTGRES_PASSWORD"), host=os.getenv("POSTGRES_HOST"), port=os.getenv("POSTGRES_PORT"), client_encoding="UTF-8")
             conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)  # important pour CREATE DATABASE
 
             cursor = conn.cursor()
@@ -75,71 +36,66 @@ class PersistenceHandler(ABC):
             cursor.close()
             conn.close()
 
-            conn = psycopg2.connect(dbname=os.getenv("POSTGRES_DB"), user=os.getenv("POSTGRES_USER"),
-                                    password=os.getenv("POSTGRES_PASSWORD"), host=os.getenv("POSTGRES_HOST"),
-                                    port=os.getenv("POSTGRES_PORT"), client_encoding="UTF-8")
+            conn = psycopg2.connect(dbname=os.getenv("POSTGRES_DB"), user=os.getenv("POSTGRES_USER"), password=os.getenv("POSTGRES_PASSWORD"), host=os.getenv("POSTGRES_HOST"), port=os.getenv("POSTGRES_PORT"), client_encoding="UTF-8")
             cursor = conn.cursor()
 
-            simulation_table_creation_request = """CREATE TABLE simulation \
-                                                   ( \
-                                                       simulation_id             SMALLINT, \
-                                                       simulation_date           TIMESTAMP, \
-                                                       duration                  SMALLINT, \
-                                                       grid_height               SMALLINT, \
-                                                       grid_width                SMALLINT, \
-                                                       fish_starting_population  SMALLINT, \
-                                                       shark_starting_population SMALLINT, \
-                                                       fish_reproduction_time    SMALLINT, \
-                                                       shark_reproduction_time   SMALLINT, \
-                                                       shark_starvation_time     SMALLINT, \
-                                                       shark_energy_gain         SMALLINT, \
-                                                       shuffled_entities         BOOLEAN, \
-                                                       animal_count              SMALLINT, \
-                                                       fish_count                SMALLINT, \
-                                                       shark_count               SMALLINT, \
-                                                       global_life_expectancy    NUMERIC(8, 2), \
-                                                       fish_life_expectancy      NUMERIC(8, 2), \
-                                                       shark_life_expectancy     NUMERIC(8, 2), \
-                                                       total_reproduction        SMALLINT, \
-                                                       fish_reproduction         SMALLINT, \
-                                                       shark_reproduction        SMALLINT, \
-                                                       fishes_eaten              SMALLINT, \
-                                                       sharks_starved            SMALLINT, \
-                                                       total_deaths              SMALLINT, \
-                                                       PRIMARY KEY (simulation_id)
-                                                   );"""
+            simulation_table_creation_request = """CREATE TABLE simulation(
+   simulation_id SMALLINT,
+   simulation_date TIMESTAMP,
+   duration SMALLINT,
+   grid_height SMALLINT,
+   grid_width SMALLINT,
+   fish_starting_population SMALLINT,
+   shark_starting_population SMALLINT,
+   fish_reproduction_time SMALLINT,
+   shark_reproduction_time SMALLINT,
+   shark_starvation_time SMALLINT,
+   shark_energy_gain SMALLINT,
+   shuffled_entities BOOLEAN,
+   animal_count SMALLINT,
+   fish_count SMALLINT,
+   shark_count SMALLINT,
+   global_life_expectancy NUMERIC(8,2)  ,
+   fish_life_expectancy NUMERIC(8,2)  ,
+   shark_life_expectancy NUMERIC(8,2)  ,
+   total_reproduction SMALLINT,
+   fish_reproduction SMALLINT,
+   shark_reproduction SMALLINT,
+   fishes_eaten SMALLINT,
+   sharks_starved SMALLINT,
+   total_deaths SMALLINT,
+   PRIMARY KEY(simulation_id)
+);"""
             cursor.execute(simulation_table_creation_request)
             conn.commit()
 
-            simulation_detail_table_creation_request = """CREATE TABLE simulation_detail \
-                                                          ( \
-                                                              simulation_id      SMALLINT, \
-                                                              chronon            SMALLINT, \
-                                                              animal_count       SMALLINT, \
-                                                              fish_count         SMALLINT, \
-                                                              shark_count        SMALLINT, \
-                                                              total_reproduction SMALLINT, \
-                                                              fish_reproduction  SMALLINT, \
-                                                              shark_reproduction SMALLINT, \
-                                                              fishes_eaten       SMALLINT, \
-                                                              sharks_starved     SMALLINT, \
-                                                              total_deaths       SMALLINT, \
-                                                              PRIMARY KEY (simulation_id, chronon)
-                                                          );"""
+            simulation_detail_table_creation_request = """CREATE TABLE simulation_detail(
+   simulation_id SMALLINT,
+   chronon SMALLINT,
+   animal_count SMALLINT,
+   fish_count SMALLINT,
+   shark_count SMALLINT,
+   total_reproduction SMALLINT,
+   fish_reproduction SMALLINT,
+   shark_reproduction SMALLINT,
+   fishes_eaten SMALLINT,
+   sharks_starved SMALLINT,
+   total_deaths SMALLINT,
+   PRIMARY KEY(simulation_id, chronon)
+);"""
             cursor.execute(simulation_detail_table_creation_request)
             conn.commit()
 
-            simulation_entities_table_creation_request = """CREATE TABLE simulation_entities \
-                                                            ( \
-                                                                simulation_id SMALLINT, \
-                                                                entity_id     SMALLINT, \
-                                                                is_alive      BOOLEAN, \
-                                                                age           SMALLINT, \
-                                                                species       VARCHAR(50), \
-                                                                children      SMALLINT, \
-                                                                fishes_eaten  SMALLINT, \
-                                                                PRIMARY KEY (simulation_id, entity_id)
-                                                            );"""
+            simulation_entities_table_creation_request = """CREATE TABLE simulation_entities(
+   simulation_id SMALLINT,
+   entity_id SMALLINT,
+   is_alive BOOLEAN,
+   age SMALLINT,
+   species VARCHAR(50) ,
+   children SMALLINT,
+   fishes_eaten SMALLINT,
+   PRIMARY KEY(simulation_id, entity_id)
+);"""
             cursor.execute(simulation_entities_table_creation_request)
             conn.commit()
 

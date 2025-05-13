@@ -19,7 +19,7 @@ class Interface:
     create_window: Creates the main window.
     draw_canvas: Creates the canvas for the simulation output.
     draw_counter: Creates the counter for entities and chronon.
-    draw_controls: Creates the control frame and inputs for the simulation parameters.
+    draw_controls: Creates the control frame for the simulation parameters.
     draw_alerts: Creates the alert space.
     create_assets: Creates the images and set their size to use in the canvas.
     set_cell_size: Sets the cell size to keep the window from overflowing.
@@ -151,7 +151,7 @@ class Interface:
 
     def draw_controls(self) -> None:
         """
-        Creates the control frame and inputs for the simulation parameters.
+        Creates the control frame for the simulation parameters.
         """
         self.grid_height_value = self.input_component(self.frames['control_frame'], "Grid height:", simulation_parameters['grid_height'], 0)
         self.grid_width_value = self.input_component(self.frames['control_frame'], "Grid width:", simulation_parameters['grid_width'], 1)
@@ -192,7 +192,7 @@ class Interface:
         history_button = Button(self.frames['control_buttons_frame'], text="History", command=self.open_history)
         history_button.grid(row=3, column=2)
 
-        database_creation_button = Button(self.frames['control_buttons_frame'], text="Create database", command=lambda:PersistenceHandler.initiate_database_creation(self))
+        database_creation_button = Button(self.frames['control_buttons_frame'], text="Create database", command=PersistenceHandler.create_ddb)
         database_creation_button.grid(row=4, column=2)
 
     def draw_alerts(self) -> None:

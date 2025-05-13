@@ -89,18 +89,10 @@ Ce projet est une simulation du monde marin inspirée du modèle Wa-Tor, où des
 1. **Installer Python 3 et les dépendances (si nécessaire dans le fichier requirements.txt)**
 
 2. **Configurer les paramètres**  
-Dans le fichier `settings.py` :
-```python
-simulation_parameters = {
-    'grid_height': 20,
-    'grid_width': 20,
-    'fish_starting_population': 50,
-    'shark_starting_population': 20,
-    'follow_entities': True,
-    'shuffle_entities': True
-}
-```
-3. **Exécuter la simulation**
+Dans le fichier `.env` :
+Entrez les paramètres de votre propre serveur PostgreSQL
+
+3. **Exécuter la simulation**  
 Assurez-vous d’avoir un fichier principal comme :
 `python main.py`
 
@@ -131,9 +123,7 @@ Fréquence de reproduction des poissons et requins (Fish reproduction time, Shar
 Durée de la simulation (Simulation duration)
 
 
-![image](https://github.com/user-attachments/assets/22e5ff84-5d8d-4bbb-b769-77f4b76b5dbd)
-
-
+![image](https://github.com/user-attachments/assets/f476da11-60ca-4778-b740-9825a2ff32a0)
 
 
 ✅ Options supplémentaires
@@ -158,8 +148,11 @@ Les cases vides, poissons, et requins sont colorées différemment pour un suivi
 ✅ Option de mélanger l’ordre des entités à chaque tour (`shuffle_entities`)  
 
 
+ 
+
+
 ## ⚙️ Contributions
 
-Chaïma : Classe planète, tests unitaires, debugging, diagrammes, présentation
-Aurélien : Classes Animal/Fish/Shark, tests unitaires, debugging
+Chaima : Classe planète, tests unitaires, debugging, diagrammes, présentation  
+Aurélien : Classes Animal/Fish/Shark, tests unitaires, debugging  
 Charles: Classes Interface/SimulationControl/DataHandler/PersistenceHandler, debugging, MCD, PowerBI
