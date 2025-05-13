@@ -12,8 +12,6 @@
 * `defi-git` *(learn to work on a Git repo together)*
 * `casse-tete` *(learn how to deal with conflicts)*
 
----
-
 ## 👥 Group Project
 
 **Team**: [CSAADZIDI](https://github.com/CSAADZIDI) & [aruide](https://github.com/aruide)

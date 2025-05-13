@@ -61,8 +61,6 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 * `defi-git` *(learn to work on a Git repo together)*
 * `casse-tete` *(learn how to deal with conflicts)*
 
----
-
 ## 👥 Group Project
 
 **Team**: [CSAADZIDI](https://github.com/CSAADZIDI) & [aruide](https://github.com/aruide)
@@ -97,3 +95,21 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 * A PowerBI Desktop model using that database to show multiple metrics, globally and/or related to one simulation/parameter
 
 ---
+
+## 🗕️ WEEK 5
+
+**Teacher**: [Sengsathit](https://github.com/Sengsathit)
+
+### 📚 Topics Covered
+
+* Introduction to the concepts and history of machine learning
+* Numpy
+* Pandas
+* Matplotlib
+
+### 🛠️ Exercises
+
+* A basic spam detector in Python (to understand how an expert system approach would work, and rapidly become bloated)
+* Numpy, Pandas & Matplotlib jupyter notebooks
+
+### TO BE CONTINUED
