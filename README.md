@@ -1,4 +1,4 @@
-# 🧠 Simplon AI Developer Training — Progress Tracker
+# 🧠 Simplon AI Developer Training — Progress Tracking
 
 Tracking my progress throughout the **Simplon AI Developer training** week by week.
 
