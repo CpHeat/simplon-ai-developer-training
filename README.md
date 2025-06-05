@@ -1,4 +1,4 @@
-# 🧠 Simplon AI Developer Training — Progress Tracker
+# 🧠 Simplon AI Developer Training — Progress Tracking
 
 Tracking my progress throughout the **Simplon AI Developer training** week by week.
 
@@ -145,3 +145,5 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 ### 🎓 Bonus
 
 - Completed an OpenClassrooms course on visual data classification and segmentation 
+
+### --- TO BE CONTINUED
