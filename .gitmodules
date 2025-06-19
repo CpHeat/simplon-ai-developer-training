@@ -7,3 +7,6 @@
 [submodule "W08-W09/project/ai-agent-with-langchain"]
 	path = W08-W09/project/ai-agent-with-langchain
 	url = https://github.com/CpHeat/ai-agent-with-langchain.git
+[submodule "W10/project/users-fastapi"]
+	path = W10/project/users-fastapi
+	url = https://github.com/CpHeat/users-fastapi.git
