@@ -94,7 +94,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
   * One for every entity that existed inside that simulation
 * A PowerBI Desktop model using that database to show multiple metrics, globally and/or related to one simulation/parameter
 
-> 📎 [See project README for full details](./W03-W04/wa-tor/program/README.md)
+> 📎 [See project README for full details](./W03-W04/wa-tor/Program/README.md)
 
 ---
 
