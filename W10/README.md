@@ -28,4 +28,4 @@
 ![Screenshot](https://github.com/CpHeat/users-fastapi/raw/2d5ff489d0a08c81085eb7f28b8500e8f4f4fb87/img/1.png)
 ![Screenshot ReDoc](https://github.com/CpHeat/users-fastapi/raw/2d5ff489d0a08c81085eb7f28b8500e8f4f4fb87/img/2.png)
 
-> 📎 [See project README for full details](https://github.com/CpHeat/users-fastapi/README.md)
+> 📎 [See project README for full details](https://github.com/CpHeat/users-fastapi.git)
