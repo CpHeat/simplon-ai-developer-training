@@ -25,7 +25,7 @@
 - Included search, listing, and user detail features in the API  
 - Designed and tested endpoints using Postman and **Pytest**  
 
-![Screenshot](./project/users_fastapi/img/1.png)
-![Screenshot ReDoc](./project/users_fastapi/img/2.png)
+![Screenshot](./project/users-fastapi/img/1.png)
+![Screenshot ReDoc](./project/users-fastapi/img/2.png)
 
-> 📎 [See project README for full details](./project/users_fastapi/README.md)
+> 📎 [See project README for full details](./project/users-fastapi/README.md)
