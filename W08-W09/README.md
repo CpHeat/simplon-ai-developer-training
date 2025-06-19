@@ -24,7 +24,7 @@
 
 ![interface](./project/ai-agent-with-langchain/images/interface.png)
 
-> 📎 [See project README for full details](./project/ai-agent-with-langchain/README.md)
+> 📎 [See project README for full details](https://github.com/CpHeat/ai-agent-with-langchain/README.md)
 
 ### 🎓 Bonus
 
