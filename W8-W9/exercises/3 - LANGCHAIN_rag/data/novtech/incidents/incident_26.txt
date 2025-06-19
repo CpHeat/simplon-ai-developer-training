@@ -1,0 +1,8 @@
+Rapport d’incident #26
+Date : 2024-01-27
+
+Incident : erreur détectée sur service billing
+Durée : 12 minutes
+Action corrective :
+- Redémarrage du service
+- Ajout de monitoring spécifique
