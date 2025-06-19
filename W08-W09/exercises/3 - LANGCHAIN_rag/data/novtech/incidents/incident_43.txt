@@ -1,0 +1,8 @@
+Rapport d’incident #43
+Date : 2024-02-13
+
+Incident : erreur détectée sur service user
+Durée : 31 minutes
+Action corrective :
+- Redémarrage du service
+- Ajout de monitoring spécifique

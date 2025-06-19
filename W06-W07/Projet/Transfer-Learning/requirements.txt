@@ -1,0 +1,11 @@
+ipywidgets
+ipykernel
+kagglehub
+pillow
+pandas
+matplotlib
+opencv-python
+numpy
+tensorflow
+mlflow
+python-dotenv

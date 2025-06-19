@@ -1,1 +1,0 @@
-# NUMPY_essentiels
