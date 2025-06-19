@@ -4,3 +4,6 @@
 [submodule "W06-W07/project/transfer-learning"]
 	path = W06-W07/project/transfer-learning
 	url = https://github.com/CpHeat/Transfer-Learning.git
+[submodule "W08-W09/project/ai-agent-with-langchain"]
+	path = W08-W09/project/ai-agent-with-langchain
+	url = https://github.com/CpHeat/ai-agent-with-langchain.git
