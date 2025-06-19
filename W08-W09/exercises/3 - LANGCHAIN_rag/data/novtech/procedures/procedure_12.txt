@@ -1,0 +1,5 @@
+Procédure #12 - Objet : Sauvegarde des données
+
+1. Étape 1 : vérifier les prérequis.
+2. Étape 2 : exécuter l’action associée à la procédure.
+3. Étape 3 : valider le résultat avec l'équipe concernée.

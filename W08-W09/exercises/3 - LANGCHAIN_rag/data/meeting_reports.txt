@@ -1,0 +1,2000 @@
+Date : 20/02/2025
+
+Objet : Point d'avancement sur le projet LogiConsult
+
+Participants : Océane Lemoine, Pascal Garnier, Nicolas Tessier, Alice Durand, Thomas Perrin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet logiconsult.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 07/12/2024
+
+Objet : Suivi de la production et des performances
+
+Participants : Karine Blanchard, Bruno Lefèvre, Nicolas Tessier, Laurent Faure, Sébastien Loiseau
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Vortex Solutions.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 04/03/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Océane Lemoine, Émilie Petit, Hugo Lambert, Pascal Garnier, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/03/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Émilie Petit, Marine Giraud, Roxane Millet, Hugo Lambert, Quentin Delmas
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 20/01/2025
+
+Objet : Préparation de la présentation client pour NeoLink
+
+Participants : Océane Lemoine, Émilie Petit, Alice Durand, Bruno Lefèvre, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour neolink.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 09/03/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Sébastien Loiseau, Fabrice Renault, David Morel, Isabelle Dubois, Pascal Garnier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 16/05/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Roxane Millet, Sébastien Loiseau, Nicolas Tessier, Laurent Faure, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/12/2024
+
+Objet : État des lieux des développements en cours
+
+Participants : Karine Blanchard, Thomas Perrin, Sébastien Loiseau, Chloé Martin, Julien Caron
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 09/03/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Nicolas Tessier, Alice Durand, Hugo Lambert, Bruno Lefèvre, Gisèle Bernard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/01/2025
+
+Objet : Préparation de la présentation client pour AlphaWeb
+
+Participants : Laurent Faure, Alice Durand, Quentin Delmas, Nicolas Tessier, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour alphaweb.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 14/01/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Laurent Faure, Chloé Martin, Isabelle Dubois, David Morel, Pascal Garnier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 27/05/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Bruno Lefèvre, Marine Giraud, Alice Durand, Karine Blanchard, David Morel
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 02/05/2025
+
+Objet : Point d'avancement sur le projet NeoLink
+
+Participants : Julien Caron, Quentin Delmas, Laurent Faure, Alice Durand, Karine Blanchard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet neolink.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 08/12/2024
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Quentin Delmas, Chloé Martin, Laurent Faure, Océane Lemoine, Julien Caron
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/12/2024
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Thomas Perrin, Laurent Faure, Sébastien Loiseau, Julien Caron, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 05/02/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Nicolas Tessier, Karine Blanchard, Chloé Martin, Océane Lemoine, Hugo Lambert
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 24/05/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Émilie Petit, Pascal Garnier, Fabrice Renault, Marine Giraud, Laurent Faure
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 23/03/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Fabrice Renault, Sébastien Loiseau, Julien Caron, Marine Giraud, Karine Blanchard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 05/03/2025
+
+Objet : État des lieux des développements en cours
+
+Participants : Karine Blanchard, Nicolas Tessier, Isabelle Dubois, Fabrice Renault, Sébastien Loiseau
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 23/05/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Émilie Petit, Nicolas Tessier, Quentin Delmas, Laurent Faure, Océane Lemoine
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 02/04/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Alice Durand, Nicolas Tessier, Quentin Delmas, Émilie Petit, Pascal Garnier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 10/03/2025
+
+Objet : Préparation de la présentation client pour Zenitix
+
+Participants : David Morel, Bruno Lefèvre, Julien Caron, Roxane Millet, Fabrice Renault
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour zenitix.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 09/01/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Émilie Petit, Océane Lemoine, Gisèle Bernard, Sébastien Loiseau, Marine Giraud
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 13/05/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Quentin Delmas, Marine Giraud, Karine Blanchard, Thomas Perrin, Julien Caron
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 01/04/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Marine Giraud, Sébastien Loiseau, David Morel, Roxane Millet, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 31/01/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Julien Caron, Karine Blanchard, Thomas Perrin, Chloé Martin, Océane Lemoine
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 28/02/2025
+
+Objet : État des lieux des développements en cours
+
+Participants : Karine Blanchard, Quentin Delmas, Émilie Petit, Océane Lemoine, Laurent Faure
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 14/12/2024
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Hugo Lambert, Thomas Perrin, Pascal Garnier, Roxane Millet, Fabrice Renault
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 05/01/2025
+
+Objet : Préparation de la présentation client pour NeoLink
+
+Participants : Émilie Petit, Karine Blanchard, Pascal Garnier, Bruno Lefèvre, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour neolink.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 08/12/2024
+
+Objet : Préparation de la présentation client pour CyberNova
+
+Participants : Quentin Delmas, Fabrice Renault, David Morel, Chloé Martin, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour cybernova.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 18/04/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Marine Giraud, Julien Caron, Thomas Perrin, Karine Blanchard, Laurent Faure
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 02/02/2025
+
+Objet : Point d'avancement sur le projet InnovaSoft
+
+Participants : Pascal Garnier, Hugo Lambert, Sébastien Loiseau, Chloé Martin, Julien Caron
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet innovasoft.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 24/12/2024
+
+Objet : État des lieux des développements en cours
+
+Participants : Nicolas Tessier, David Morel, Laurent Faure, Bruno Lefèvre, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 16/03/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Pascal Garnier, Océane Lemoine, Nicolas Tessier, Julien Caron, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Vortex Solutions.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 10/04/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Océane Lemoine, Thomas Perrin, Laurent Faure, David Morel, Hugo Lambert
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 07/04/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Bruno Lefèvre, Isabelle Dubois, Océane Lemoine, Hugo Lambert, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 11/12/2024
+
+Objet : Point d'avancement sur le projet Axion Data
+
+Participants : Laurent Faure, Quentin Delmas, Thomas Perrin, Alice Durand, David Morel
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet axion data.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 18/12/2024
+
+Objet : État des lieux des développements en cours
+
+Participants : Thomas Perrin, David Morel, Roxane Millet, Bruno Lefèvre, Sébastien Loiseau
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/04/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Julien Caron, Émilie Petit, Isabelle Dubois, Océane Lemoine, Quentin Delmas
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 11/04/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Roxane Millet, Quentin Delmas, Océane Lemoine, Bruno Lefèvre, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 01/02/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Pascal Garnier, Hugo Lambert, Gisèle Bernard, Chloé Martin, David Morel
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 01/12/2024
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Alice Durand, Isabelle Dubois, Hugo Lambert, Océane Lemoine, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 30/04/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Pascal Garnier, Émilie Petit, Nicolas Tessier, Thomas Perrin, Quentin Delmas
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 08/04/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Chloé Martin, Nicolas Tessier, Hugo Lambert, Fabrice Renault, Alice Durand
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 29/05/2025
+
+Objet : État des lieux des développements en cours
+
+Participants : David Morel, Fabrice Renault, Alice Durand, Marine Giraud, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 09/03/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Alice Durand, Fabrice Renault, Julien Caron, Pascal Garnier, Marine Giraud
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 06/12/2024
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Thomas Perrin, Isabelle Dubois, Fabrice Renault, Hugo Lambert, Laurent Faure
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 07/12/2024
+
+Objet : Préparation de la présentation client pour CyberNova
+
+Participants : Isabelle Dubois, Gisèle Bernard, Pascal Garnier, Émilie Petit, Hugo Lambert
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour cybernova.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 13/02/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Isabelle Dubois, Quentin Delmas, Gisèle Bernard, Hugo Lambert, Fabrice Renault
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 16/02/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Bruno Lefèvre, Nicolas Tessier, Sébastien Loiseau, Émilie Petit, Roxane Millet
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 03/02/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Hugo Lambert, Océane Lemoine, Nicolas Tessier, David Morel, Bruno Lefèvre
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 23/01/2025
+
+Objet : État des lieux des développements en cours
+
+Participants : Nicolas Tessier, Sébastien Loiseau, Karine Blanchard, Julien Caron, Roxane Millet
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 15/01/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Pascal Garnier, Alice Durand, Laurent Faure, Nicolas Tessier, Sébastien Loiseau
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/12/2024
+
+Objet : État des lieux des développements en cours
+
+Participants : Hugo Lambert, Sébastien Loiseau, Laurent Faure, Roxane Millet, Alice Durand
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 23/05/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : David Morel, Chloé Martin, Océane Lemoine, Marine Giraud, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 14/02/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Isabelle Dubois, Sébastien Loiseau, Alice Durand, Bruno Lefèvre, Julien Caron
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 20/12/2024
+
+Objet : Point d'avancement sur le projet SmartApps
+
+Participants : Sébastien Loiseau, Nicolas Tessier, Chloé Martin, Laurent Faure, Thomas Perrin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet smartapps.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 18/12/2024
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Roxane Millet, Sébastien Loiseau, Nicolas Tessier, Quentin Delmas, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 22/05/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Thomas Perrin, Nicolas Tessier, Fabrice Renault, Pascal Garnier, Karine Blanchard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 08/12/2024
+
+Objet : Point d'avancement sur le projet NetiTech
+
+Participants : Quentin Delmas, Hugo Lambert, Marine Giraud, Alice Durand, Sébastien Loiseau
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet netitech.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 11/04/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Sébastien Loiseau, Marine Giraud, Roxane Millet, Océane Lemoine, Bruno Lefèvre
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 28/04/2025
+
+Objet : Préparation de la présentation client pour Axion Data
+
+Participants : Marine Giraud, Bruno Lefèvre, Quentin Delmas, Chloé Martin, David Morel
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour axion data.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 21/03/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Fabrice Renault, Roxane Millet, Julien Caron, Gisèle Bernard, Hugo Lambert
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 24/05/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Sébastien Loiseau, Isabelle Dubois, Roxane Millet, Alice Durand, Gisèle Bernard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 26/04/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Pascal Garnier, Fabrice Renault, Karine Blanchard, Hugo Lambert, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 04/05/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Hugo Lambert, David Morel, Alice Durand, Marine Giraud, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 21/05/2025
+
+Objet : Point d'avancement sur le projet Axion Data
+
+Participants : Fabrice Renault, Roxane Millet, Thomas Perrin, Nicolas Tessier, Karine Blanchard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet axion data.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 20/01/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Chloé Martin, Bruno Lefèvre, Roxane Millet, Nicolas Tessier, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 27/01/2025
+
+Objet : Point d'avancement sur le projet LogiConsult
+
+Participants : Thomas Perrin, Chloé Martin, Bruno Lefèvre, Nicolas Tessier, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet logiconsult.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 01/04/2025
+
+Objet : Préparation de la présentation client pour NetiTech
+
+Participants : Alice Durand, Julien Caron, Laurent Faure, Hugo Lambert, Fabrice Renault
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour netitech.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 20/02/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Sébastien Loiseau, Karine Blanchard, Alice Durand, Chloé Martin, Roxane Millet
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 20/02/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Océane Lemoine, Hugo Lambert, Julien Caron, David Morel, Roxane Millet
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 10/05/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Bruno Lefèvre, Laurent Faure, David Morel, Marine Giraud, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 23/03/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Émilie Petit, Karine Blanchard, Gisèle Bernard, Pascal Garnier, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 09/02/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Roxane Millet, Sébastien Loiseau, Thomas Perrin, Hugo Lambert, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 01/03/2025
+
+Objet : État des lieux des développements en cours
+
+Participants : Sébastien Loiseau, Fabrice Renault, Alice Durand, David Morel, Gisèle Bernard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à état des lieux des développements en cours.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Axion Data.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 08/01/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Isabelle Dubois, Pascal Garnier, Alice Durand, Chloé Martin, Thomas Perrin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 14/02/2025
+
+Objet : Préparation de la présentation client pour NeoLink
+
+Participants : Roxane Millet, Sébastien Loiseau, Nicolas Tessier, Gisèle Bernard, Hugo Lambert
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour neolink.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 29/05/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Laurent Faure, Fabrice Renault, Hugo Lambert, Émilie Petit, Sébastien Loiseau
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec InnovaSoft.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 07/01/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Émilie Petit, Pascal Garnier, Julien Caron, Laurent Faure, Karine Blanchard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 19/03/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Julien Caron, Laurent Faure, Quentin Delmas, Pascal Garnier, Bruno Lefèvre
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 21/04/2025
+
+Objet : Mise en œuvre du plan de migration cloud
+
+Participants : Émilie Petit, Thomas Perrin, Julien Caron, Roxane Millet, Océane Lemoine
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à mise en œuvre du plan de migration cloud.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 02/02/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Alice Durand, Karine Blanchard, Chloé Martin, Nicolas Tessier, Gisèle Bernard
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 22/05/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Laurent Faure, Hugo Lambert, Julien Caron, Fabrice Renault, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 31/03/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : David Morel, Thomas Perrin, Karine Blanchard, Pascal Garnier, Chloé Martin
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 29/05/2025
+
+Objet : Suivi de la production et des performances
+
+Participants : Thomas Perrin, Alice Durand, Bruno Lefèvre, Roxane Millet, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 11/05/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Thomas Perrin, Gisèle Bernard, Quentin Delmas, Bruno Lefèvre, Fabrice Renault
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec AlphaWeb.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 25/04/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Hugo Lambert, Isabelle Dubois, Fabrice Renault, David Morel, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 18/01/2025
+
+Objet : Point d'avancement sur le projet Zenitix
+
+Participants : Roxane Millet, David Morel, Marine Giraud, Fabrice Renault, Pascal Garnier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet zenitix.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Zenitix.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 26/04/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Alice Durand, Gisèle Bernard, Pascal Garnier, Sébastien Loiseau, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec CyberNova.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 18/03/2025
+
+Objet : Bilan des incidents techniques du mois
+
+Participants : Karine Blanchard, Quentin Delmas, Bruno Lefèvre, Isabelle Dubois, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à bilan des incidents techniques du mois.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec LogiConsult.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 05/01/2025
+
+Objet : Préparation de la présentation client pour Vortex Solutions
+
+Participants : Karine Blanchard, Nicolas Tessier, Thomas Perrin, Émilie Petit, Isabelle Dubois
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à préparation de la présentation client pour vortex solutions.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Vortex Solutions.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 07/04/2025
+
+Objet : Réunion hebdomadaire de coordination technique
+
+Participants : Roxane Millet, Sébastien Loiseau, Gisèle Bernard, Chloé Martin, Nicolas Tessier
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à réunion hebdomadaire de coordination technique.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Vortex Solutions.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 27/12/2024
+
+Objet : Suivi de la production et des performances
+
+Participants : Fabrice Renault, Roxane Millet, Julien Caron, David Morel, Alice Durand
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à suivi de la production et des performances.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NetiTech.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 29/04/2025
+
+Objet : Définition des priorités pour le sprint à venir
+
+Participants : Laurent Faure, Émilie Petit, Julien Caron, Pascal Garnier, Isabelle Dubois
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à définition des priorités pour le sprint à venir.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 11/02/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Alice Durand, Bruno Lefèvre, Nicolas Tessier, Pascal Garnier, Émilie Petit
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Vortex Solutions.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 18/04/2025
+
+Objet : Point d'avancement sur le projet NeoLink
+
+Participants : Fabrice Renault, Sébastien Loiseau, Gisèle Bernard, Chloé Martin, Quentin Delmas
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à point d'avancement sur le projet neolink.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 10/01/2025
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Gisèle Bernard, Nicolas Tessier, Hugo Lambert, Sébastien Loiseau, Fabrice Renault
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec NeoLink.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 17/12/2024
+
+Objet : Atelier de réflexion sur l’optimisation des processus
+
+Participants : Océane Lemoine, Julien Caron, Chloé Martin, Fabrice Renault, Hugo Lambert
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à atelier de réflexion sur l’optimisation des processus.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec SmartApps.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+
+Date : 23/05/2025
+
+Objet : Sécurité informatique et conformité RGPD
+
+Participants : Gisèle Bernard, Thomas Perrin, Julien Caron, Laurent Faure, Alice Durand
+
+Résumé :
+
+La réunion s’est ouverte sur un rappel des enjeux liés à sécurité informatique et conformité rgpd.
+
+Les échanges ont porté sur les tâches réalisées et les éléments bloquants, notamment concernant les interactions avec Vortex Solutions.
+
+Un point particulier a été mis sur la communication interne, jugée parfois insuffisante, et sur les besoins en ressources.
+
+Des décisions ont été prises : ajustement du planning, validation des livrables intermédiaires, et implication renforcée de certains membres clés.
+
+La clôture de la réunion a permis de fixer les prochaines échéances et de désigner les responsables pour les actions à venir.
+
+====================================================================================================
+

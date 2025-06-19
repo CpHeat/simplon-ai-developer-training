@@ -1,1 +1,0 @@
-# DL_demo_classification_mnist
