@@ -1,0 +1,8 @@
+Rapport d’incident #28
+Date : 2024-01-29
+
+Incident : erreur détectée sur service user
+Durée : 22 minutes
+Action corrective :
+- Redémarrage du service
+- Ajout de monitoring spécifique

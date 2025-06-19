@@ -1,0 +1,8 @@
+Rapport d’incident #29
+Date : 2024-01-30
+
+Incident : erreur détectée sur service auth
+Durée : 56 minutes
+Action corrective :
+- Redémarrage du service
+- Ajout de monitoring spécifique

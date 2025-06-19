@@ -94,6 +94,8 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
   * One for every entity that existed inside that simulation
 * A PowerBI Desktop model using that database to show multiple metrics, globally and/or related to one simulation/parameter
 
+> 📎 [See project README for full details](./W3-4/wa-tor/program/README.md)
+
 ---
 
 ## 🗕️ WEEK 5
@@ -142,8 +144,75 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 - Analysis of results with confusion matrices, ROC curves, and metric comparisons  
 - Deployment considerations and integration within a machine learning workflow  
 
+> 📎 [See project README for full details](./W6-7/projet/Transfer-Learning/README.md)
+
 ### 🎓 Bonus
 
 - Completed an OpenClassrooms course on visual data classification and segmentation 
+
+---
+
+## 🗕️ WEEKS 8-9
+
+**Teacher**: [Sengsathit](https://github.com/Sengsathit)
+
+### 📚 Topics Covered
+
+- Introduction to large language models (LLMs) and their architecture  
+- Exploration of RAG (Retrieval-Augmented Generation) tools and AI agents  
+- Introduction and hands-on practice with LangChain framework  
+
+### 🛠️ Exercises & Projects
+
+- Exercises using LangChain to build conversational flows  
+- Prompt engineering for task-specific agents  
+- Experimenting with memory, tools, and chaining in LangChain  
+
+### 🚀 Final Project: ADA-ChatBot – Citizen AI Agent
+
+- Developed a conversational assistant capable of answering questions on social and administrative rights  
+- Integration of LangChain agents, tools, memory, and RAG pipeline (ChromaDB)  
+- Clean and intuitive user interface with [Streamlit](https://streamlit.io)  
+- Domain-specific tools: eligibility checkers, search filters, summaries  
+- Modular Python architecture (agent manager, tool manager, vector DB handler)  
+
+> 📎 [See project README for full details](./W8-9/project/ai-agent-with-langchain/README.md)
+
+### 🎓 Bonus
+
+- Followed a Streamlit tutorial to enhance understanding of building simple AI app interfaces
+
+---
+
+## 🗕️ WEEK 10
+
+**Teacher**: Salsabil
+
+### 📚 Topics Covered
+
+- Fundamentals of APIs and RESTful architecture  
+- HTTP methods, routes, status codes, and authentication mechanisms  
+- Using **Postman** for API testing and exploration  
+- Automating API tests and workflows using Postman scripting  
+- Validating responses and chaining requests in Postman collections  
+
+### 🛠️ Exercises & Projects
+
+- Practical exploration of real-world APIs with Postman  
+- Automated validation scripts and environments  
+- Secured request chaining with authentication  
+- Created an individual project integrating data extraction and REST API exposure with FastAPI  
+
+### 🚀 Final Project: GitHub Users Extractor & FastAPI API
+
+- Built a pipeline to extract and filter user data from the GitHub API  
+- Developed a secure REST API using **FastAPI** to expose the cleaned data  
+- Implemented authentication with **Basic Auth** and protected endpoints  
+- Included search, listing, and user detail features in the API  
+- Designed and tested endpoints using Postman and **Pytest**  
+
+> 📎 [See project README for full details](./W10/README.md)
+
+---
 
 ### --- TO BE CONTINUED
