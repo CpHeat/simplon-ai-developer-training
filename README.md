@@ -144,7 +144,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 - Analysis of results with confusion matrices, ROC curves, and metric comparisons  
 - Deployment considerations and integration within a machine learning workflow  
 
-> 📎 [See project README for full details](https://github.com/CpHeat/Transfer-Learning.git)
+> 📎 [See project README for full details](https://github.com/CpHeat/transfer-learning.git)
 
 ### 🎓 Bonus
 
