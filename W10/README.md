@@ -1,6 +1,6 @@
 ## 🗕️ WEEK 10
 
-**Teacher**: [Sengsathit](https://github.com/Sengsathit)
+**Teacher**: Salsabil
 
 ### 📚 Topics Covered
 
