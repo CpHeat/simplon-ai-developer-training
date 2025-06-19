@@ -47,4 +47,6 @@
 
 ![image](https://github.com/user-attachments/assets/f476da11-60ca-4778-b740-9825a2ff32a0)
 
+> 📎 [See project README for full details](https://github.com/CpHeat/wa-tor.git)
+
 ---
