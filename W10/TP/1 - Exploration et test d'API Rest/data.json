@@ -1,6 +1,0 @@
-[
-    {"city":"Paris","temp":20,"weather":"Clear","humidity":59},
-    {"city":"London","temp":20.16,"weather":"Clouds","humidity":62},
-    {"city":"Tokyo","temp":28.71,"weather":"Clear","humidity":67},
-    {"city":"New York","temp":16.59,"weather":"Clouds","humidity":83}
-]

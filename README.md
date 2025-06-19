@@ -211,7 +211,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 - Included search, listing, and user detail features in the API  
 - Designed and tested endpoints using Postman and **Pytest**  
 
-> 📎 [See project README for full details](./W10/README.md)
+> 📎 [See project README for full details](./W10/project/users_fastapi/README.md)
 
 ---
 

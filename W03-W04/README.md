@@ -45,4 +45,6 @@
   * One for every entity that existed inside that simulation
 * A PowerBI Desktop model using that database to show multiple metrics, globally and/or related to one simulation/parameter
 
+![image](https://github.com/user-attachments/assets/f476da11-60ca-4778-b740-9825a2ff32a0)
+
 ---
