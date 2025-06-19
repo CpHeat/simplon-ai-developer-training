@@ -94,7 +94,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
   * One for every entity that existed inside that simulation
 * A PowerBI Desktop model using that database to show multiple metrics, globally and/or related to one simulation/parameter
 
-> 📎 [See project README for full details](./W03-W04/wa-tor/Program/README.md)
+> 📎 [See project README for full details](https://github.com/CpHeat/wa-tor.git)
 
 ---
 
@@ -144,7 +144,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 - Analysis of results with confusion matrices, ROC curves, and metric comparisons  
 - Deployment considerations and integration within a machine learning workflow  
 
-> 📎 [See project README for full details](./W06-07/projet/Transfer-Learning/README.md)
+> 📎 [See project README for full details](https://github.com/CpHeat/transfer-learning.git)
 
 ### 🎓 Bonus
 
@@ -176,7 +176,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 - Domain-specific tools: eligibility checkers, search filters, summaries  
 - Modular Python architecture (agent manager, tool manager, vector DB handler)  
 
-> 📎 [See project README for full details](./W08-W09/project/ai-agent-with-langchain/README.md)
+> 📎 [See project README for full details](https://github.com/CpHeat/ai-agent-with-langchain.git)
 
 ### 🎓 Bonus
 
@@ -211,7 +211,7 @@ Tracking my progress throughout the **Simplon AI Developer training** week by we
 - Included search, listing, and user detail features in the API  
 - Designed and tested endpoints using Postman and **Pytest**  
 
-> 📎 [See project README for full details](./W10/README.md)
+> 📎 [See project README for full details](https://github.com/CpHeat/users-fastapi.git)
 
 ---
 
