@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ajouter un livre</title>
+  </head>
+  <body>
+    <h1>Ajouter un nouveau livre</h1>
+    <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Enregistrer</button>
+    </form>
+    <p><a href="{% url 'index' %}">Retour à la liste des livres</a></p>
+  </body>
+</html>

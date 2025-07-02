@@ -10,3 +10,6 @@
 [submodule "W10/project/users-fastapi"]
 	path = W10/project/users-fastapi
 	url = https://github.com/CpHeat/users-fastapi.git
+[submodule "W11/project/real-estate-prices-api"]
+	path = W11/project/real-estate-prices-api
+	url = https://github.com/CpHeat/real-estate-prices-api.git
