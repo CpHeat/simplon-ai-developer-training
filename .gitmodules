@@ -13,3 +13,6 @@
 [submodule "W11/project/real-estate-prices-api"]
 	path = W11/project/real-estate-prices-api
 	url = https://github.com/CpHeat/real-estate-prices-api.git
+[submodule "W13/project/coach-appointment-app"]
+	path = W13/project/coach-appointment-app
+	url = https://github.com/CpHeat/coach-appointment-app.git
