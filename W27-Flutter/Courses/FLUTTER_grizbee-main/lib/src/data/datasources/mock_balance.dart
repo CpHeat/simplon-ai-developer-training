@@ -1,0 +1,1 @@
+var mockBalance = 123.45;

@@ -1,21 +1,42 @@
-[submodule "W03-W04/project/wa-tor"]
-	path = W03-W04/project/wa-tor
+[submodule "W03-W04-Wa-Tor/project/wa-tor"]
+	path = W03-W04-Wa-Tor/project/wa-tor
 	url = https://github.com/CpHeat/wa-tor.git
-[submodule "W06-W07/project/transfer-learning"]
-	path = W06-W07/project/transfer-learning
+[submodule "W06-W07-DL-TL-Introduction-Project/project/transfer-learning"]
+	path = W06-W07-DL-TL-Introduction-Project/project/transfer-learning
 	url = https://github.com/CpHeat/transfer-learning.git
-[submodule "W08-W09/project/ai-agent-with-langchain"]
-	path = W08-W09/project/ai-agent-with-langchain
+[submodule "W08-W09-LLM-Agent-Introduction-Project/project/ai-agent-with-langchain"]
+	path = W08-W09-LLM-Agent-Introduction-Project/project/ai-agent-with-langchain
 	url = https://github.com/CpHeat/ai-agent-with-langchain.git
-[submodule "W10/project/users-fastapi"]
-	path = W10/project/users-fastapi
+[submodule "W10-API-Introduction/project/users-fastapi"]
+	path = W10-API-Introduction/project/users-fastapi
 	url = https://github.com/CpHeat/users-fastapi.git
-[submodule "W11/project/real-estate-prices-api"]
-	path = W11/project/real-estate-prices-api
+[submodule "W11-Real-Estate-Model-API/project/real-estate-prices-api"]
+	path = W11-Real-Estate-Model-API/project/real-estate-prices-api
 	url = https://github.com/CpHeat/real-estate-prices-api.git
-[submodule "W13/project/coach-appointment-app"]
-	path = W13/project/coach-appointment-app
+[submodule "W13-Coach-App-Project/project/coach-appointment-app"]
+	path = W13-Coach-App-Project/project/coach-appointment-app
 	url = https://github.com/CpHeat/coach-appointment-app.git
-[submodule "W15-W19/project/game-advisor"]
+[submodule "W15-W19-Monthly-Project/project/game-advisor"]
 	path = W15-W19/project/game-advisor
 	url = https://github.com/CpHeat/game-advisor.git
+[submodule "W22-W23-Scraping-Introduction-Project/project/scraper"]
+	path = W22-W23-Scraping-Introduction-Project/project/scraper
+	url = https://github.com/CpHeat/data-scraper.git
+[submodule "W22-W23-Scraping-Introduction-Project/project/api"]
+	path = W22-W23-Scraping-Introduction-Project/project/API
+	url = https://github.com/CpHeat/scraped-data-api.git
+[submodule "W26-ETL/project"]
+	path = W26-ETL/project
+	url = https://github.com/CpHeat/airflow.git
+[submodule "W27-Flutter/project"]
+	path = W27-Flutter/project
+	url = https://github.com/CpHeat/la-prise-app.git
+[submodule "W29-ML-Monitoring/project"]
+	path = W29-ML-Monitoring/project
+	url = https://github.com/CpHeat/simplon-ml-monitoring.git
+[submodule "W30-CI-CD/ci-cd-project"]
+	path = W30-CI-CD/ci-cd-project
+	url = https://github.com/CpHeat/clothcast.git
+[submodule "W30-CI-CD/mlops-project"]
+	path = W30-CI-CD/mlops-project
+	url = https://github.com/CpHeat/simplon-ml-monitoring.git

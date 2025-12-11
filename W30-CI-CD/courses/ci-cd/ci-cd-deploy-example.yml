@@ -1,0 +1,42 @@
+deploy:
+    name: Déploiement sur Azure App Service
+    runs-on: ubuntu-latest
+    needs: build-and-push
+
+    steps:
+    - name: Connexion à Azure
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+    - name: Démarrage ou redémarrage de l'App Service
+      uses: azure/cli@v1
+      with:
+        inlineScript: |
+          STATE=$(az webapp show \
+            --name ${{ env.AZURE_WEBAPP_NAME }} \
+            --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }} \
+            --query state -o tsv)
+
+          echo "État actuel : $STATE"
+
+          if [ "$STATE" = "Running" ]; then
+            echo "App en cours d'exécution, restart..."
+            az webapp restart \
+              --name ${{ env.AZURE_WEBAPP_NAME }} \
+              --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }}
+          else
+            echo "App arrêtée, start..."
+            az webapp start \
+              --name ${{ env.AZURE_WEBAPP_NAME }} \
+              --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }}
+          fi
+
+    - name: Vérification du statut
+      uses: azure/cli@v1
+      with:
+        inlineScript: |
+          az webapp show \
+            --name ${{ env.AZURE_WEBAPP_NAME }} \
+            --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }} \
+            --query state -o tsv*

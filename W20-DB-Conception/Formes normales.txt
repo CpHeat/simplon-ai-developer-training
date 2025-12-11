@@ -1,0 +1,61 @@
+Les formes normales se superposent en couches. une table répondant a la forme normale 3 répondra également forcément aux formes normales 1 et 2
+
+
+Forme normale 1 :
+
+Une colonne dans une table doit contenir une valeur indivisible
+exemple: pour stocker dans une table des marques et leurs produits, on aura une ligne par produit avec sa marque associée, et non une ligne par marque avec une colonne products contenant tous les produits de cette marque
+
+avantage : facilité de lister les produits, d'extraire un produit unique, et possibilité de vérifier l'unicité
+
+
+Forme normale 2:
+
+un attribut non clé doti etre dépendant de la clé primaire de la table
+par exemple pour une table produit contenant le nom de la marque, la marque n'est pas dépendante de l'id du produit. Il faudrait plutôt créer une table marques a part, et remplacer le nom de la marque par son dientificiant en tant que clé étrangère dans la table produits
+
+Avantage : evite les erreurs (marque mal orthographiée), meilleure performance, assure l'identification de la marque
+
+
+Forme normale 3:
+
+un atribut non clé ne doit pas dépendre d'un attribut ne participant pas a l'identification
+
+dans une table de commandes, référencer la categorie du produit commandé dépendrait du produit en question. Il faudrait alors plutôt mettre cette information au niveau de la table produit. Cela évitera la redondance et les erreurs potentielles.
+
+
+BONUS
+
+Forme normale de Boyce-Codd:
+
+Un atrribut clé ne doit pas etre determiné par un atribut non clé. Reprenons la table de livraison. Si ses clés sont la date et la categorie de l'article, et que l'id de l'article est un atribut non clé, alors la categorie est déterminée par le product id, ce qui est mauvais. il vaudrait mieux utiliser product id comme clé et passer la categorie dans la table products.
+
+On évite ainsi les anomalies
+
+
+Forme normale 4 :
+
+On ne doit pas pouvoir créer de relation avec moins d'attributs que l'identification
+
+exemple une table prodution contenant trois colonnes clés : BrandID, Product Id et Site
+
+imaginons qu'un site produise tous les produits d'une marque. On pourrait avoir pluesieurs lignes avec le meme site, car correspodnant a deux articles de la meme marque
+Il vaudrait mieux avoir une table BrandID - ProductID, et une autre table BrandID - Site. ainsi on sait que tout produit d'une marque est produit par les sites de cette marque
+
+On évite ainsi la redondance
+
+
+Forme normale 5 :
+
+On ne décompose pas une relation si elle implique une perte d'information
+
+Reprenons l'exemple précédent. Si a l'inverse, un site produit CERTAINS produits d'une marque, separer comme nous l'avons fait les tables entraine une perte d'information. on en sait plus quels produit chaque site produit. Dans ce cas une table contenant les 3 clés permet de garder cette information
+
+Cela évite une perte de données
+
+
+En général la normalisation est effectuée jusqu'à la troisieme forme
+
+les formes 4/5/Boyce-Codd sont liées à des cas particuliers
+
+Ces formes permettent de réduire la redondance et assurer l'intégrité des données, voire d'améliorer les performances en réduisant la taille des tables et facilitant l'indexation. Cela peut toutefois compliquer les requetes en impliquant des jointures complexes. Un équilibre doit etre trouvé selon les besoins de l'app et en termes de performances
