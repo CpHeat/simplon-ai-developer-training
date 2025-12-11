@@ -40,3 +40,9 @@
 [submodule "W30-CI-CD/mlops-project"]
 	path = W30-CI-CD/mlops-project
 	url = https://github.com/CpHeat/simplon-ml-monitoring.git
+[submodule "W15-W19/project/game-advisor"]
+	path = W15-W19/project/game-advisor
+	url = https://github.com/CpHeat/game-advisor.git
+[submodule "W22-W23-Scraping-Introduction-Project/project/API"]
+	path = W22-W23-Scraping-Introduction-Project/project/API
+	url = https://github.com/CpHeat/scraped-data-api.git
