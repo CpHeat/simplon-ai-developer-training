@@ -17,12 +17,12 @@
 	path = W13-Coach-App-Project/project/coach-appointment-app
 	url = https://github.com/CpHeat/coach-appointment-app.git
 [submodule "W15-W19-Monthly-Project/project/game-advisor"]
-	path = W15-W19/project/game-advisor
+	path = W15-W19-Monthly-Project/project/game-advisor
 	url = https://github.com/CpHeat/game-advisor.git
 [submodule "W22-W23-Scraping-Introduction-Project/project/scraper"]
 	path = W22-W23-Scraping-Introduction-Project/project/scraper
 	url = https://github.com/CpHeat/data-scraper.git
-[submodule "W22-W23-Scraping-Introduction-Project/project/api"]
+[submodule "W22-W23-Scraping-Introduction-Project/project/API"]
 	path = W22-W23-Scraping-Introduction-Project/project/API
 	url = https://github.com/CpHeat/scraped-data-api.git
 [submodule "W26-ETL/project"]
@@ -40,9 +40,6 @@
 [submodule "W30-CI-CD/mlops-project"]
 	path = W30-CI-CD/mlops-project
 	url = https://github.com/CpHeat/simplon-ml-monitoring.git
-[submodule "W15-W19/project/game-advisor"]
-	path = W15-W19/project/game-advisor
-	url = https://github.com/CpHeat/game-advisor.git
-[submodule "W22-W23-Scraping-Introduction-Project/project/API"]
-	path = W22-W23-Scraping-Introduction-Project/project/API
-	url = https://github.com/CpHeat/scraped-data-api.git
+[submodule "W31-W32-W33-ML-DEPLOYMENT-CI-CD"]
+	path = W31-W33-ML-DEPLOYMENT-CI-CD
+	url = https://github.com/CpHeat/road_accident_analysis-EDUCATIONAL-.git
