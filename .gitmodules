@@ -40,6 +40,6 @@
 [submodule "W30-CI-CD/mlops-project"]
 	path = W30-CI-CD/mlops-project
 	url = https://github.com/CpHeat/simplon-ml-monitoring.git
-[submodule "W31-W32-W33-ML-DEPLOYMENT-CI-CD"]
-	path = W31-W33-ML-DEPLOYMENT-CI-CD
+[submodule "W31-W33-ML-DEPLOYMENT-CI-CD/rendu"]
+	path = W31-W33-ML-DEPLOYMENT-CI-CD/rendu
 	url = https://github.com/CpHeat/road_accident_analysis-EDUCATIONAL-.git
